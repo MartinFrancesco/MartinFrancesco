@@ -2,8 +2,12 @@
 
 ## ABOUT ME
 :computer: Junior Web Developer
-:rocket: Tremendously Curious
 
-## GIT STATS
+:satellite: Communication Designer
 
-## TOP PROGRAMMING LANGUAGES
+:headphones: Communication Designer
+
+:mortar_board: Communication Designer
+
+:rocket: Irreducibly Curious
+
