@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Francesco!
 
-##ABOUT ME
-- :muscle: Mee!
+## ABOUT ME
+:muscle: Mee!
