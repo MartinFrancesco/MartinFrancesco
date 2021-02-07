@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Francesco!
+### Curious and passionate Junior Web Developer.
+
+Always oriented to improve my knowledges and keep testing myself, willing to face challenges in a team; each project is a chance to find out more about who I am.
 
 ## ABOUT ME
 :computer: Junior Web Developer
